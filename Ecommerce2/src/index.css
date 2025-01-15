@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 60px;
+}
+
+button{
+    padding: 10px 10px;
+    border: 1px sold black;
+    border-radius: 10px;
+}
